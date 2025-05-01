@@ -1,0 +1,26 @@
+pip install -r requirements.txt - Install all required packages/ add if you wnat any.
+sudo lsof -i :5050 - To find the current running process and port details.
+kill -9 <PID> - Kill the current process which is running the server on port 5050
+find . -type d -name "__pycache__" -exec rm -r {} \+   - To clean cache
+watch -n 1 free -m  - To check the current memory usage by this process
+python run.py - If you use run.py(we are not using in this project. don't use if you replicate same)
+python main.py --input dataset/test_logs.csv - If you use run.py, need to use main.py(we are not using in this project. don't use if you replicate same)
+
+To acitvate environments:
+1. I created a anaconda environment called 'airs' and can activate using conda activate airs
+2. activate my python environment using 'source myenv/bin/activate'
+
+Actively using code:
+1. OTX_API_KEY=<YOUR_OTX_KEY> > python rest_api/rest_api.py
+2. python log_ingestion_simulator.py
+
+
+16 features for all 4 models:
+['flow_duration', 'total_fwd_packets', 'total_backward_packets', 
+ 'flow_bytes/s', 'flow_packets/s', 'fwd_packet_length_min', 
+ 'fwd_packet_length_max', 'bwd_packet_length_min', 'ack_flag_count',
+ 'psh_flag_count', 'down/up_ratio', 'init_win_bytes_forward',
+ 'flow_iat_mean', 'flow_iat_std', 'prediction', 'confidence']
+
+
+ 

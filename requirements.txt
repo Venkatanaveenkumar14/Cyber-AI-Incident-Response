@@ -1,0 +1,24 @@
+# Core Libraries
+pandas==1.5.3
+numpy==1.24.4
+
+# Machine Learning
+scikit-learn==1.2.2
+catboost==1.2.2
+xgboost==1.7.6
+imbalanced-learn==0.10.1
+
+# Visualization
+matplotlib==3.7.1
+seaborn==0.12.2
+
+# Web & API
+Flask==2.3.2
+requests==2.31.0
+
+# Email & Messaging
+#smtplib3==0.5.1
+python-dotenv==1.0.0
+
+# Other
+joblib==1.2.0
