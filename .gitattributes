@@ -2,3 +2,13 @@
 *.pkl filter=lfs diff=lfs merge=lfs -text
 *.csv filter=lfs diff=lfs merge=lfs -text
 *.json filter=lfs diff=lfs merge=lfs -text
+dataset/*.csv filter=lfs diff=lfs merge=lfs -text
+dataset/*.json filter=lfs diff=lfs merge=lfs -text
+dataset/*.zip filter=lfs diff=lfs merge=lfs -text
+models/*.cbm filter=lfs diff=lfs merge=lfs -text
+models/*.pkl filter=lfs diff=lfs merge=lfs -text
+incident_response/*.json filter=lfs diff=lfs merge=lfs -text
+alerts_cache.json filter=lfs diff=lfs merge=lfs -text
+alerts.json filter=lfs diff=lfs merge=lfs -text
+predictions_log.csv filter=lfs diff=lfs merge=lfs -text
+recovery.csv filter=lfs diff=lfs merge=lfs -text
