@@ -1,0 +1,25 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+myenv/
+
+# System files
+.DS_Store
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Dataset/model files
+*.csv
+*.json
+*.pkl
+*.cbm
+*.db
+
+# IDE config
+.vscode/
+.idea/
