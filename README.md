@@ -105,7 +105,7 @@ https://drive.google.com/drive/folders/1clqG3DGWNHu21SXrgvlsqbs3G9ooek8F?usp=dri
 # Author
 ```
 Venkata Naveen Kumar Prabhuleti
-🎓 Master’s in Cybersecurity Analytics @ Penn State University
+🎓 Master’s in Cybersecurity Analytics and Operations @ Penn State University
 GitHub: https://github.com/Venkatanaveenkumar14/
 ```
 LinkedIn: https://www.linkedin.com/in/naveen-kumar93/
