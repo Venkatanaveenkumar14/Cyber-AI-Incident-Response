@@ -3,7 +3,7 @@
 AIRS is a modular, AI-powered incident response framework designed to detect and respond to WebDDoS and other network anomalies in real-time. It combines deep feature engineering, ML-based threat classification, automated Incident Response and mitigation strategies, and dynamic YARA rule generation—all integrated into a unified pipeline.
 
 ---
-<pre>
+
 ## Project Structure
 ```
 Automated_Incident_Response/
@@ -61,7 +61,6 @@ Automated_Incident_Response/
 ├── select_top_features.py
 └── flow.txt / commands.txt
 ```
-</pre>
 ---
 
 ## How to Run the System
