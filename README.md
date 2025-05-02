@@ -1,7 +1,7 @@
 # AIRS – Cyber AI Incident Response System
-
+```
 AIRS is a modular, AI-powered incident response framework designed to detect and respond to WebDDoS and other network anomalies in real-time. It combines deep feature engineering, ML-based threat classification, automated Incident Response and mitigation strategies, and dynamic YARA rule generation—all integrated into a unified pipeline.
-
+```
 ---
 
 ## Project Structure
@@ -84,9 +84,10 @@ conda activate AIRS
 	•	CatBoost, XGBoost, and Stacked Ensemble used
 
 # Dataset Access (Google Drive)
-
+```
 Due to GitHub size limits (>2GB), full datasets are available here:
 https://drive.google.com/drive/folders/1clqG3DGWNHu21SXrgvlsqbs3G9ooek8F?usp=drive_link
+```
 
 # Real-Time Incident Response
 	•	Alerts are raised based on model predictions
