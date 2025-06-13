@@ -1,6 +1,6 @@
 # AIRS – Cyber AI Incident Response System
 ```
-AIRS is a modular, AI-powered incident response framework designed to detect and respond to WebDDoS and other network anomalies in real-time. It combines deep feature engineering, ML-based threat classification, automated Incident Response and mitigation strategies, and dynamic YARA rule generation—all integrated into a unified pipeline.
+AIRS is a modular, AI-powered incident response engine & framework designed to detect and respond to WebDDoS and other network anomalies in real-time. It combines deep feature engineering, ML-based threat classification, automated Incident Response and mitigation strategies, and dynamic YARA rule generation—all integrated into a unified pipeline.
 ```
 ---
 
